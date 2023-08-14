@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "7349e669147a1073",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a85b5f17540889f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2bd0c7c0b09a9c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a8f4e2a56bf036b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLSI Physical Design/Scan chain optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98ea84722d54c253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLSI Physical Design/Well Tap cell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a91f29cabb65df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLSI Physical Design/VT Cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3da90decbe186709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLSI Physical Design/Tie Cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61707b701a738d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLSI Physical Design/Balancing Skew and Latency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f38daa43c35ff77",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5408668a735566d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa68f3c2b41bd06d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee5ea29282c8e3e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9318b9bdd3fefb07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f90cc40605732dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9350d41ab26b492",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ba66551ef2b234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VLSI Physical Design/Balancing Skew and Latency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36511b3fca6c7712",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "aa68f3c2b41bd06d",
+  "lastOpenFiles": [
+    "VLSI Physical Design/Stop pin.png",
+    "VLSI Physical Design/Float pin.png",
+    "VLSI Physical Design/Clock Tree Synthesis.md",
+    "Embedded Concepts/Beam Forming.md",
+    "VLSI Physical Design/Balancing Skew and Latency.md",
+    "Perl Programming/Perl Intro, Comments, File creation and running of scripts.md",
+    "Perl Programming/Data Types.md",
+    "OBSIDIAN CHITSHEET/Settings.md",
+    "OBSIDIAN CHITSHEET/Redirected note.md",
+    "OBSIDIAN CHITSHEET/Markdown.md",
+    "OBSIDIAN CHITSHEET/Cheet sheet for obsidian.md",
+    "STM32 Learning/Basics programming languages for embedded..md",
+    "VLSI Physical Design/Cell flipping.png",
+    "VLSI Physical Design/Design flow.png",
+    "VLSI Physical Design/Floor Planning   Partitioning.md",
+    "VLSI Physical Design/Cell flipping and Orientation..md",
+    "VLSI Physical Design/Well Tap cell.md",
+    "VLSI Physical Design/VT Cells.md",
+    "VLSI Physical Design/Timing Fixes in Placement stage.md",
+    "VLSI Physical Design/Spare cells..md",
+    "VLSI Physical Design/Scan chain optimization.md",
+    "VLSI Physical Design/Sanity Checks.md",
+    "VLSI Physical Design/Physical Only Cells.md",
+    "VLSI Physical Design/Introduction to Placement.md",
+    "VLSI Physical Design/Introduction to Physical Design.md",
+    "VLSI Physical Design/Concurrent Clock and Data Optimization.png",
+    "VLSI Physical Design/Tie Cells.md",
+    "VLSI Physical Design/Spare cells.png",
+    "VLSI Physical Design/Timing violations.png",
+    "Pasted image 20230813112308 1.png",
+    "VLSI Physical Design/Tie Cell.png",
+    "VLSI Physical Design/Placement density.png",
+    "VLSI Physical Design/Macro guideline.png",
+    "Embedded Concepts/Smart FET.md",
+    "Embedded Concepts/Parasitic Capacitance and Inductance on High speed signal propagation.md",
+    "RECURSION/Recursion.md",
+    "Untitled",
+    "Perl Programming",
+    "VLSI Physical Design",
+    "Embedded Concepts",
+    "Entreprenurship",
+    "Zephyr RTOS learning",
+    "Memories",
+    "RECURSION",
+    "Dynamic Programming/Untitled.canvas",
+    "Dynamic Programming",
+    "GATE"
+  ]
+}

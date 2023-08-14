@@ -1,0 +1,9 @@
+
+Beamforming is a technique used to improve the SNR of received signals , eliminate undesirable interference sources and focus transmitted signals to specific locations. Beamforming is central to systems with sensor arrays including MIMO wireless communications systems such as 5G , LTE and WLAN.
+MIMO beamforming in wireless applications can also be used to increase data stream capacity between base station and user elements.
+Optimization based beamforming techniques are becoming popular in modern wireless communication systems.
+
+
+## Beamforming Applications
+
+Beamforming is also widely used in radar, sonar, medical imaging, and audio applications. Beamformers can be used to focus transmitted signals from a sensor array in a specific direction. For received signals at a sensor array, beamformers enhance detection by coherently summing signals across elements of arrays. Conventional beamformers have fixed weights while adaptive beamformers have weights that respond to the environment. For narrowband signals, beamforming can often be achieved by multiplying the sensor input with a complex exponential with the appropriate phase shift. You can use MATLAB® to model narrowband beamforming with the [Conventional and Adaptive Beamformers](https://in.mathworks.com/help/phased/ug/conventional-and-adaptive-beamformers.html) example. In the case of wideband signals, the steering is no longer a function of a single frequency and the operation may need to be carried out in multiple frequency bands. You can model wideband beamforming in MATLAB with the [Visualization of Wideband Beamformer Performance](https://in.mathworks.com/help/phased/ug/visualization-of-wideband-beamformer-performance-gs.html) example.

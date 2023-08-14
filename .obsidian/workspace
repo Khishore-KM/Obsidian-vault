@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "7349e669147a1073",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9339747b99d8b98",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f38daa43c35ff77",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5408668a735566d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa68f3c2b41bd06d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee5ea29282c8e3e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f90cc40605732dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9350d41ab26b492",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ba66551ef2b234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diodes/Backward Diode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "floating": {
+    "id": "3e4a8c78775cdb62",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d9f5292366823206",
+        "type": "window",
+        "children": [
+          {
+            "id": "07e0f6cbce284e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diodes/Backward Diode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 1665,
+        "y": -76,
+        "width": 1536,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e9339747b99d8b98",
+  "lastOpenFiles": [
+    "Diodes/Backward Diode.md",
+    "C++ learning/Pointers.md",
+    "semi conductor/p-type.md",
+    "semi conductor/Silicon.md",
+    "semi conductor/Semiconductors.md",
+    "semi conductor/Pasted image 20220618221401.png",
+    "semi conductor/Pasted image 20220618135044.png",
+    "semi conductor/n-type.md",
+    "semi conductor/Germanium.md",
+    "semi conductor/Basics.md"
+  ]
+}
